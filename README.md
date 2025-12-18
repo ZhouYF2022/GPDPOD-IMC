@@ -35,3 +35,6 @@ The latest arrival time of the occasional driver at the destination
 
 # edge
 The distances between each node
+
+# Supplementary Explanation
+'large' indicates that the number of ODs is 1.2 times the number of nodes. 'meidum' indicates that the number of ODs is 0.5 times the number of nodes. "small" indicates that the number of ODs is 0.2 times the number of nodes. The numbers following "OD" represent the ratio of the number of ODs to the number of nodes.
