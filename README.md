@@ -1,5 +1,5 @@
 # GPDPOD-IMC
-This project contains instances for Paper 《Green logistics: a matheuristic approach for the pickup and delivery problem with occasional drivers in community group-buying》
+This project contains instances for Paper 《A primal-dual collaborative matheuristic approach for green pickup and delivery problem with occasional drivers in community group buying》
 
 # Source of the instance
 This example is adapted from the dataset proposed by Sartori and Buriol (10.1016/j.cor.2020.105065) and can be obtained on website https://data.mendeley.com/datasets/wr2ct4r22f/2
