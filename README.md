@@ -5,13 +5,13 @@ This project contains instances for Paper 《A primal-dual collaborative matheur
 This example is adapted from the dataset proposed by Sartori and Buriol (10.1016/j.cor.2020.105065) and can be obtained on website https://data.mendeley.com/datasets/wr2ct4r22f/2
 
 # Description：
-Name：Instance name\\
-Type: Problem type
-Commodity type: The maximum number of different product types that the same node in an instance can contain
-Compartment num：The number of available compartments when hiring a vehicle
-CapacityHD：Capacity of hired drivers
-VehicleHDs：The maximum number of available hired vehicles
-CapacityOD：Capacity of occasional drivers
+Name：Instance name  
+Type: Problem type  
+Commodity type: The maximum number of different product types that the same node in an instance can contain  
+Compartment num：The number of available compartments when hiring a vehicle  
+CapacityHD：Capacity of hired drivers  
+VehicleHDs：The maximum number of available hired vehicles  
+CapacityOD：Capacity of occasional drivers  
 
 # ID Xc Yc DEMAND StartT EndT SerT PairedID (depot node, pick-up node or delivery node)
 The index of the node  
