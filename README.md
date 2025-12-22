@@ -5,7 +5,7 @@ This project contains instances for Paper 《A primal-dual collaborative matheur
 This example is adapted from the dataset proposed by Sartori and Buriol (10.1016/j.cor.2020.105065) and can be obtained on website https://data.mendeley.com/datasets/wr2ct4r22f/2
 
 # Description：
-Name：Instance name
+Name：Instance name\\
 Type: Problem type
 Commodity type: The maximum number of different product types that the same node in an instance can contain
 Compartment num：The number of available compartments when hiring a vehicle
