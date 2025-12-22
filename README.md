@@ -14,27 +14,30 @@ VehicleHDs：The maximum number of available hired vehicles
 CapacityOD：Capacity of occasional drivers
 
 # ID Xc Yc DEMAND StartT EndT SerT PairedID (depot node, pick-up node or delivery node)
-The index of the node
-The longitude of the node
-The latitude of the node
-A list, representing the demand for each type of commodity
-The earliest start time of service for the node
-The latest start time of service for the node
-Service time
-The pickup node or delivery node corresponding to the node
+The index of the node  
+The longitude of the node  
+The latitude of the node  
+A list, representing the demand for each type of commodity  
+The earliest start time of service for the node  
+The latest start time of service for the node  
+Service time  
+The pickup node or delivery node corresponding to the node  
 
 # StartID EndID StartX StartY EndX EndY StartT EndT (The information of each accidental driver)
-The index of occasional driver departure node
-The index of occasional driver destination node
-The longitude coordinates of the occasional driver's departure node
-The latitude coordinates of the occasional driver's departure node
-The longitude coordinates of the occasional driver's destination node
-The latitude coordinates of the occasional driver's destination node
-The earliest departure time of the occasional driver
-The latest arrival time of the occasional driver at the destination
+The index of occasional driver departure node  
+The index of occasional driver destination node  
+The longitude coordinates of the occasional driver's departure node  
+The latitude coordinates of the occasional driver's departure node  
+The longitude coordinates of the occasional driver's destination node  
+The latitude coordinates of the occasional driver's destination node  
+The earliest departure time of the occasional driver  
+The latest arrival time of the occasional driver at the destination  
 
 # edge
-The distances between each node
+The distances between each node  
 
 # Supplementary Explanation
-'large' indicates that the number of ODs is 1.2 times the number of nodes. 'meidum' indicates that the number of ODs is 0.5 times the number of nodes. "small" indicates that the number of ODs is 0.2 times the number of nodes. The numbers following "OD" represent the ratio of the number of ODs to the number of nodes.
+'large' indicates that the number of ODs is 1.2 times the number of nodes.   
+'meidum' indicates that the number of ODs is 0.5 times the number of nodes.  
+"small" indicates that the number of ODs is 0.2 times the number of nodes.   
+The numbers following "OD" represent the ratio of the number of ODs to the number of nodes.
